@@ -101,7 +101,7 @@ It locates GUI elements through **image recognition**, then drives them with sim
 - [Changes, issues and enhancements](https://github.com/oculix-org/SikuliX1/wiki/About-actual-release-version)
 - [List of fixes](https://github.com/oculix-org/SikuliX1/wiki/ZZZ-Bug-Fixes)
 - [Get SikuliX ready to use](https://raimans-sikulix.gitbook.io/untitled/)
-- [SikuliX Documentation](http://sikulix.com)
+- [SikuliX Documentation](https://sikulix-2014.readthedocs.io/en/latest/index.html)
 
 <br>
 
